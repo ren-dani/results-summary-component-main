@@ -144,7 +144,9 @@ h4 {
     font-size: 1.1em;
     font-weight: 700;
 }
-
+.btn:hover {
+    background: linear-gradient(var(--Light-slate-blue), var(--Light-royal-blue) );
+}
 .attribution { 
     font-size: 11px; 
     text-align: center;
@@ -164,14 +166,17 @@ h4 {
         display: flex;
         width: 43em;
         border-radius: 20px;
-        box-shadow: 0 5px 20px 5px rgba(0, 0, 0, 0.5) ;   
+        box-shadow: 0 0 20px 5px rgba(0, 0, 0, 0.5) ;   
     }
 
-    .card > * {
+    /* .card > * {
         flex: 1 1 0;
-    }
+    } */
     .result-section {
         border-radius: 20px;
+        flex: 1 1 0;
     }
-    
+    .summary-section {
+        flex: 1 1 0;
+    }
 }
