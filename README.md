@@ -62,6 +62,6 @@ Users should be able to:
 
 ### Useful resources
 
-- [MDN]([https://www.example.com](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Controlling_ratios_of_flex_items_along_the_main_axis)) - Controlling ratios of flex items along the x-axis.
+- [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Controlling_ratios_of_flex_items_along_the_main_axis) - Controlling ratios of flex items along the x-axis.
 - [CSS Tricks](https://css-tricks.com/bem-101/) - Block, Element, Modifier methodology.
-- [FED mentor]([https://css-tricks.com/bem-101/](https://fedmentor.dev/posts/html-plan-product-preview/)) - How to plan your HTML.
+- [FED mentor](https://fedmentor.dev/posts/html-plan-product-preview/) - How to plan your HTML.
